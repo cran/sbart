@@ -31,10 +31,10 @@
 #elif defined __clang__
   // -Wconstant-logical-operand - warning: use of logical && with constant operand; switch to bitwise & or remove constant
   //     this is really a stupid warning as it warns on compile-time expressions involving enums
-  #ifndef EIGEN_PERMANENTLY_DISABLE_STUPID_WARNINGS
-    #pragma clang diagnostic push
-  #endif
-  #pragma clang diagnostic ignored "-Wconstant-logical-operand"
+  /* #ifndef EIGEN_PERMANENTLY_DISABLE_STUPID_WARNINGS */
+  /*   #pragma clang diagnostic push */
+  /* #endif */
+  /* #pragma clang diagnostic ignored "-Wconstant-logical-operand" */
 #endif
 
 #endif // not EIGEN_WARNINGS_DISABLED

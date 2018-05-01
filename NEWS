@@ -1,0 +1,6 @@
+Changes and New Features in 0.1.1 (2018-05-01):
+
+	* comment out pragmas from Eigen code just like RcppEigen does,
+	incorporate correct LICENSE and COPYRIGHT file for Eigen, and
+	strip the libs on Linux to save space on CRAN
+	Rodney Sparapani <rsparapa@mcw.edu>  

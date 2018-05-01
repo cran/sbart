@@ -1,11 +1,14 @@
-871050b7dd62780758b888033592fb42 *DESCRIPTION
-2d36daba1c0b2d80f4e131eb1b06b24a *LICENSE
+f72333a635949ce07c7db80f9feb1572 *DESCRIPTION
+4bc546e8df6dd6d387b6ae67cc765d4e *LICENSE
 11c8d3431ea75be229ff0af394159af8 *NAMESPACE
+b77e6ca35d64969294c86a902d010cac *NEWS
 c6db57b008a20542777e8e0dedeca804 *R/RcppExports.R
 59547eb4fc97dc4dffaa77c2d899fcef *R/funcSequentialBart.R
 342365fd45de95fe289c27c25510df73 *R/myfunctionBART.R
-bd61424ecdeedb5db25d89b1aa9a6e90 *R/sysdata.rda
+03c9e6b7f6221ae45f2608e7dd8dfd3b *R/sysdata.rda
 8208bfac8af716dfef18397172252f35 *README.md
+793119f25c48283360f2cb68e867a255 *cleanup
+f92e3e102bd3c8ae090103f737431f86 *inst
 2c87169b1a8b115c1f5b46481f054774 *man/seqBART.Rd
 fa5316eb01fca98c95b06f387528371c *src/Eigen/Array
 8356f203720db32a51ace30ea0c5222a *src/Eigen/CMakeLists.txt
@@ -118,7 +121,7 @@ c0e67a7baf48ff86f07a57d86b450cdf *src/Eigen/src/Core/arch/AltiVec/PacketMath.h
 df3750d6c9da974505e6ac7ed5b6ac90 *src/Eigen/src/Core/arch/NEON/Complex.h
 0faff10327bca193176239ecf7cf64e4 *src/Eigen/src/Core/arch/NEON/PacketMath.h
 cc7244edfa5d98cbbd275d81da64ca6f *src/Eigen/src/Core/arch/SSE/CMakeLists.txt
-962b0c0c1ab47acea1ea42b7f024d420 *src/Eigen/src/Core/arch/SSE/Complex.h
+60bb62ef729310f06fd733de2db2d51f *src/Eigen/src/Core/arch/SSE/Complex.h
 2010a6c9482dd8ca55908d02601bfd10 *src/Eigen/src/Core/arch/SSE/MathFunctions.h
 adcac94dd125fd370d520648811dd30f *src/Eigen/src/Core/arch/SSE/PacketMath.h
 e91ebbb6023c74df6d3042f9eb133978 *src/Eigen/src/Core/products/CMakeLists.txt
@@ -147,7 +150,7 @@ cff686d97576a6c53728b2a28e92ab55 *src/Eigen/src/Core/products/TriangularSolverVe
 0c8c3d282b9e5017917d03e59a234325 *src/Eigen/src/Core/util/BlasUtil.h
 9cc3f7fa207b677c45f30be2628adb4a *src/Eigen/src/Core/util/CMakeLists.txt
 37ee5abeaf1162130272ab213bc06a31 *src/Eigen/src/Core/util/Constants.h
-6e693a3812ad0e47d1c38666ecc8094b *src/Eigen/src/Core/util/DisableStupidWarnings.h
+7baee97087c371774ef44a64a7342ad0 *src/Eigen/src/Core/util/DisableStupidWarnings.h
 0bd88e3ac6b27a67d0a349bd65882d8b *src/Eigen/src/Core/util/ForwardDeclarations.h
 3288a7aaff1b710fcb85d9d52b201df6 *src/Eigen/src/Core/util/MKL_support.h
 d299c3dba974a042d96c46ea7126a7a6 *src/Eigen/src/Core/util/Macros.h

@@ -1,2 +1,8 @@
-YEAR: 2016
-COPYRIGHT HOLDER: Your name goes here
+
+Please see the included file COPYRIGHTS for per-file (or per-directory)
+details on licenses as well as copyrights.
+
+In short: 
+
+ - Eigen (as an upstream project) in licensed under the MPL-2 (a 
+   version of which is included in the file COPYRIGHT)
